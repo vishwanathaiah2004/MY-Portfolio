@@ -4,6 +4,8 @@ This is my personal **Frontend Developer Portfolio** built with **React + Vite +
 It showcases my skills, experience, and projects as a frontend developer.
 
 ---
+## 🔗 Live Demo
+[[![Live Demo](https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge)](https://vishwanathaiah2004.github.io/MY-Portfolio/)](https://vishwanathaiah2004.github.io/MY-Portfolio/)
 
 ## 🚀 Features
 - ⚡ Fast & responsive with React + Vite
